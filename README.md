@@ -1,4 +1,4 @@
-# A Hybrid AI Framework for Spam Email Classification
+# A Comparative Evaluation of a Multimodal Approach for Spam Email Classification Using DistilBERT and Structural Features
 
 This repository contains the source code for the paper: "A Hybrid Artificial Intelligence Framework for Spam Email Classification Using Deep and Structural Features", providing the necessary components to reproduce our main findings.
 
